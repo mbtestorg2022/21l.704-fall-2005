@@ -35,31 +35,256 @@ Plagiarism - use of another's intellectual work without acknowledgement - is a s
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Elaine Scarry |
-| 3 | Elaine Scarry (cont.) |
-| 4 | Plato |
-| 5 | David Hume |
-| 6 | Immanuel Kant |
-| 7 | Friedrich Schiller |
-| 8 | William Wordsworth and Samuel Taylor Coleridge |
-| 9 | William Wordsworth and Samuel Taylor Coleridge (cont.) |
-| 10 | William Wordsworth and Samuel Taylor Coleridge (cont.) |
-| 11 | William Wordsworth and Samuel Taylor Coleridge (cont.) |
-| 12 | Samuel Taylor Coleridge (cont.) |
-| 13 | John Keats |
-| 14 | John Keats (cont.) |
-| 15 | John Keats and Walter Benjamin |
-| 16 | John Keats and Walter Benajmin (cont.)  {{< br >}}  {{< br >}}Theodor Adorno |
-| 17 | Thomas Love Peacock and P. B. Shelley |
-| 18 | Mary Shelley |
-| 19 | Mary Shelley (cont.) |
-| 20 | Lord Byron and George Gordon |
-| 21 | Lord Byron and George Gordon (cont.) |
-| 22 | Charles Dickens |
-| 23 | Charles Dickens (cont.)  {{< br >}}  {{< br >}}Martha Nussbaum |
-| 24 | Matthew Arnold and Walter Pater |
-| 25 | Oscar Wilde |
-| 26 | Student Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Elaine Scarry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Elaine Scarry (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Plato
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+David Hume
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Immanuel Kant
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Friedrich Schiller
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+William Wordsworth and Samuel Taylor Coleridge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+William Wordsworth and Samuel Taylor Coleridge (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+William Wordsworth and Samuel Taylor Coleridge (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+William Wordsworth and Samuel Taylor Coleridge (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel Taylor Coleridge (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+John Keats
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+John Keats (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+John Keats and Walter Benjamin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+John Keats and Walter Benajmin (cont.)  
+  
+Theodor Adorno
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Thomas Love Peacock and P. B. Shelley
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Shelley
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Shelley (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lord Byron and George Gordon
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lord Byron and George Gordon (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Dickens
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Dickens (cont.)  
+  
+Martha Nussbaum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Matthew Arnold and Walter Pater
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Oscar Wilde
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
